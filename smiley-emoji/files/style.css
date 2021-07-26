@@ -1,32 +1,4 @@
-.squares{
-  position:fixwd;
-}
-.div-square1{
-  display:flex;
-}
-.div-square2{
-  display:flex;
-}
-.div-square1 .div1{
-  background-color:white;
-  height:2rem;
-  width:2rem;
-}
-.div-square1 .div2{
-  background-color:#C0C0C0;
-  height:2rem;
-  width:2rem;
-}
-.div-square2 .div1{
-  background-color:#C0C0C0;
-  height:2rem;
-  width:2rem;
-}
-.div-square2 .div2{
-  background-color:white;
-  height:2rem;
-  width:2rem;
-}
+/* Created By Pratham Mishra */
 
 .main-circle{
   height:45rem;
